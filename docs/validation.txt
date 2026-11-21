@@ -1,0 +1,15 @@
+Validation date (UTC runner): 2026-11-21 23:00:12
+MATLAB: 24.1.0.3303086 (R2024a) Update 9
+Scope: numerical checks and synthetic onboarding demo; legacy experiments excluded.
+All numerical checks passed.
+MRMP demo: N=128 M=64 K=6 L=4, 20 paired trials/SNR.
+                  Pd    Pf    F1
+                  __    __    __
+
+    MRMP          1     0     1 
+    SOMP          1     0     1 
+    MRMP + VDS    1     0     1 
+    SOMP + VDS    1     0     1 
+
+Demo elapsed seconds: 5.80112
+Validation completed successfully.
