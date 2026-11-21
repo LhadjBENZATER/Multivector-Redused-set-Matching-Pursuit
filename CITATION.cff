@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated paper when relevant."
+title: "MRMP: Multivector Reduced-Set Matching Pursuit"
+type: software
+authors:
+  - family-names: Benzater
+    given-names: Hadj Abdelkader
+    orcid: https://orcid.org/0009-0006-2533-0315
+url: https://github.com/LhadjBENZATER/Multivector-Redused-set-Matching-Pursuit
+repository-code: https://github.com/LhadjBENZATER/Multivector-Redused-set-Matching-Pursuit
+license: MIT
+keywords:
+  - MATLAB
+  - telecommunications
+  - reproducible-research
+preferred-citation:
+  type: conference-paper
+  title: "Multivector Reduced-Set Matching Pursuit (MRMP): A Low-Complexity Approach for Joint Sparse Recovery with Virtual Data Synthesis"
+  authors:
+    - family-names: "Benzater"
+      given-names: "Hadj Abdelkader"
+    - family-names: "Teguig"
+      given-names: "Djamal"
+    - family-names: "Zeraoula"
+      given-names: "Hamza"
+    - family-names: "Lassami"
+      given-names: "Nacerredine"
+  year: 2025
+  doi: 10.23919/eusipco63237.2025.11226247
+  collection-title: "EUSIPCO 2025, pp. 2732\u20132736"
